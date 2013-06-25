@@ -6,12 +6,6 @@
     },
     "require": {
         "cboden/Ratchet": "0.2.*",
-        "asm89/Rx.PHP": "dev-master"
-    },
-    "repositories": [
-        {
-            "type": "git",
-            "url": "git@github.com:asm89/Rx.PHP.git"
-        }
-    ]
+        "asm89/rx.php": "~0.1.0"
+    }
 }
