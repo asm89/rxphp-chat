@@ -1,0 +1,17 @@
+{
+    "autoload": {
+        "psr-0": {
+            "Rx\\Chat": "src"
+        }
+    },
+    "require": {
+        "cboden/Ratchet": "0.2.*",
+        "asm89/Rx.PHP": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git@github.com:asm89/Rx.PHP.git"
+        }
+    ]
+}
